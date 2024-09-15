@@ -1,0 +1,15 @@
+Sep 13 17:40:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:43:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:39:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:10:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:40:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:44:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:37:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:39:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:20:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:41:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:41:00 server-name app-service[1234]: INFO: Could not write to the log file. Permission denied.
+Sep 13 17:41:00 server-name app-service[1234]: FAIL: Could not write to the log file. Permission denied.
+Sep 13 17:41:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:47:00 server-name app-service[1234]: ERROR: Could not write to the log file. Permission denied.
+Sep 13 17:47:00 server-name app-service[1234]: FAIL: Could not write to the log file. Permission denied.
